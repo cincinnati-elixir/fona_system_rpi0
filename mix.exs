@@ -84,7 +84,8 @@ defmodule NervesSystemRpi0.MixProject do
       "post-build.sh",
       "cmdline.txt",
       "linux-4.4.defconfig",
-      "config.txt"
+      "config.txt",
+      "busybox_defconfig"
     ]
   end
 
